@@ -1,3 +1,5 @@
+> This repo has been archived and moved [here](https://github.com/etn-ccis/blui-cli).
+
 # Brightlayer UI CLI
 
 This Command Line Interface is a utility for creating new Brightlayer UI applications with automatic integration of themes, components, etc.
